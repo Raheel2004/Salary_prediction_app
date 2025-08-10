@@ -68,4 +68,3 @@ if st.button("🔍 Predict Salary"):
         except ValueError:
             st.error("❌ Please enter a valid numeric value")
 
-!pip install streamlit
